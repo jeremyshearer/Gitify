@@ -7,21 +7,6 @@
     "content-hash": "6fe2bcfb0b0b4bebe1e861ce02d38e62",
     "packages": [
         {
-            "name": "kbjr/git.php",
-            "version": "0.2.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/kbjr/git.php",
-                "reference": "master"
-            },
-            "type": "library",
-            "autoload": {
-                "classmap": [
-                    "git.php"
-                ]
-            }
-        },
-        {
             "name": "symfony/console",
             "version": "v2.6.13",
             "target-dir": "Symfony/Component/Console",
